@@ -1,4 +1,4 @@
-# Project 3 - 3D3 - Blockchain messaging network 
+# Prject-Blockchain messaging network 
 
 # General TODO - Project 3
 
