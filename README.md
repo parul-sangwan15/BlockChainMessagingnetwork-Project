@@ -1,6 +1,9 @@
 # Prject-Blockchain messaging network 
+<a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ0ZTdpaTJ1ZWVvYW4zaGcwYXgxZWF6cGRkOG01bHRxcHYxMnEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTrTnPMPq8UORCrBWG/giphy.gif" height="250" alt="Visit my LinkedIn profile"/>
+</a>
 
-# General TODO - Project 3
+# General TODO - Project 
 
 Note: these would still be nice TODOs - get round to them over summer
 
