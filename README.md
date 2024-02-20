@@ -1,4 +1,4 @@
-# Prject-Blockchain messaging network 
+# Project-Blockchain messaging network 
 <a>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ0ZTdpaTJ1ZWVvYW4zaGcwYXgxZWF6cGRkOG01bHRxcHYxMnEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTrTnPMPq8UORCrBWG/giphy.gif" height="250" alt="Visit my LinkedIn profile"/>
 </a>
@@ -26,7 +26,7 @@ Note: these would still be nice TODOs - get round to them over summer
 
 
 
-## Project 3 - Global Problem 
+## Project  - Global Problem 
 
 With this project we are looking to contribute to the global problem 
 that is Cancel Culture and Free Speech. In order to help combat this 
